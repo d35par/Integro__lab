@@ -1,0 +1,15 @@
+body{
+	font-family: "Times New Roman",sans-serif;
+	background-color: #eeeeee;
+	font-size: 16px;
+}
+.container{
+	width: 512px;
+	height: 750px;
+	margin: 5px auto 45px;
+	
+	background-color: white;
+}
+.br-bottom{
+	border-bottom: 1px solid #7a7a7a;
+}
