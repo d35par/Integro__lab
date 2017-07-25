@@ -134,14 +134,14 @@ ul .li__footer{
 	padding: 15px 45px;
 }
 .link__footer{
-	font-size: 10px;
+	font-size: 13px;
 	color: #2c2c2c; /* text color */
 }
 .link__footer:hover{
 	text-decoration: underline;
 }
 .copyright{
-	font-size: 10px;
-	margin-left: 270px;
+	font-size: 13px;
+	margin-left: 220px;
 	color: #2c2c2c; /* text color */
 }
