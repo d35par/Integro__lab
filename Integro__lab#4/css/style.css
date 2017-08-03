@@ -132,7 +132,7 @@ ul.mini_menu{
 	display: none;
 	position: absolute;
 	width: 120px;
-	top: -1;
+	top:-1px;
 	left: 119px;
 	background-color: #2f2f2f;
 	border: 1px solid black;
